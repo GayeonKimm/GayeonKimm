@@ -1,4 +1,4 @@
-#### Hello World, I'm Gayeon!
+## Hello World, I'm Gayeon!
 
 <!--
 **GayeonKimm/GayeonKimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
