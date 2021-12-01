@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m interested in IT.
-- 👯 I’m currently learning Recommendation System.
+- I’m interested in AI.
+- I’m currently learning Recommendation System...
 - AI / Data Analysis / Machine learning / Deep learning
+
+
+
