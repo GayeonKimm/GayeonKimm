@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I’m interested in AI.💥
+- I’m interested in Data Science!💥
 - I’m currently learning Recommendation System...
-- AI / Data Analysis / Machine learning / Deep learning
+- AI / EDA / Data Science / Machine learning / Deep learning
 
 
 
