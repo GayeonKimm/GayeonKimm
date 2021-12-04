@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I’m interested in Data Science!💥
 - I’m currently learning Recommendation System...
-- AI / EDA / Data Science / Machine learning / Deep learning
+- Data Science / Machine learning / Deep learning
 
 
 
