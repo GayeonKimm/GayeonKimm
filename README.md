@@ -1,4 +1,4 @@
-# Hello World, I'm Gayeon!
+# Hello World, I'm Gayeon Kim!
 
 <!--
 **GayeonKimm/GayeonKimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - I’m interested in Data Science!💥
 - I’m currently learning Recommendation System...
-- Data Science / Machine learning / Deep learning
+- Business Analytics / Data Analytics / Data Science / Machine learning
 
 
 
